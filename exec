@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+java -classpath "./:/Users/OsvaldoJunior/OpenJML/jmlruntime.jar" $1

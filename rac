@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+rm -r *.class
+java -jar "/Users/OsvaldoJunior/OpenJML/openjml.jar" -cp "./" -rac $1
